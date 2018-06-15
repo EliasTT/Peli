@@ -127,7 +127,6 @@ public class MainActivity extends Activity {
     public void setButtonSelected(View v) {
         switch (v.getId()) {
 
-
         }
     }
     private void startGame() {

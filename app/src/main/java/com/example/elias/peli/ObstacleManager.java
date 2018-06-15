@@ -19,7 +19,7 @@ public class ObstacleManager {
 
     private int score = 0;
 
-    public ObstacleManager(int playerGap, int obstacleGap, int obstacleHeight, int color) {
+    ObstacleManager(int playerGap, int obstacleGap, int obstacleHeight, int color) {
 
 
         this.playerGap = playerGap;
